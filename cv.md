@@ -2,7 +2,7 @@
 **Minsk, Belarus**
 
 
-![photo](/photo.jpg "Me")
+![photo](https://lenoriya.github.io/rsschool-cv/photo.jpg "Me")
 *****
 
 
