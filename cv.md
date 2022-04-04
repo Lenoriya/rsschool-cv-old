@@ -14,7 +14,7 @@ My responsibilities include the administration of the antivirus program and the 
 *****
 
 
-# Prof. skills
+# Professional skills
 * JavaScript
 * HTML
 * CSS
