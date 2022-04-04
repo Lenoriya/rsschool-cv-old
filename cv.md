@@ -13,6 +13,8 @@ I work as a software engineer at a state enterprise.
 
 
 My responsibilities include the administration of the antivirus program and the filling of the site.
+
+
 *****
 
 
@@ -26,6 +28,8 @@ My responsibilities include the administration of the antivirus program and the 
     + Adobe Photoshop
     + Adobe Illustrator
     + Kaspersky Security Center
+
+
 *****
 
 
@@ -34,6 +38,8 @@ Polotsk State Agrarian and Economic College, Faculty of Information Technology *
 
 
 Polotsk State University, Faculty of Information Technology *(2010 – 2014, correspondence)*
+
+
 *****
 
 
@@ -42,6 +48,9 @@ Polotsk State University, Faculty of Information Technology *(2010 – 2014, cor
 * Discord:  **@Lenoriya#6931**
 * Telegram: **Kru_Helen**
 * Email: **lena_kru@tut.by**
+* LinkedIn: **https://www.linkedin.com/in/kruminia/**
+
+
 *****
 
 
@@ -51,6 +60,8 @@ Polotsk State University, Faculty of Information Technology *(2010 – 2014, cor
 * Belorussian *(B1)*
 * Polish *(A1)*
 * German *(A1)*
+
+
 *****
 
 
