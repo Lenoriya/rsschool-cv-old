@@ -1,5 +1,8 @@
 ## Hello, I’m Helen Kruminia
 **Minsk, Belarus**
+
+
+![photo](/photo.jpg "Me")
 *****
 
 
